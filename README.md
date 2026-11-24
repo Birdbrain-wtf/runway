@@ -1,4 +1,4 @@
-# Kusama Vision runway
+# Kusama Cypherpunk Vision Fund planner
 
 The planner behind [birdbrain.wtf/tools/runway](https://birdbrain.wtf/tools/runway): how long a
 dollar budget lasts if it is paid from Kusama's Vision pots, what DOT price the plan needs, and
